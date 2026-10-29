@@ -6,10 +6,7 @@ const Footer = () => {
     <div>
       <div className="mt-40 flex">
         <div className="w-3/5">
-          <h1 className="w-fit overflow-hidden border-2 border-black rounded-full flex items-center text-3xl font-bold">
-            <span className="text-white bg-orange-400 px-4 py-2">Ghalib</span>{" "}
-            <span className="text-white px-4 py-2 bg-blue-800">Hospital</span>
-          </h1>
+          <img src={assets.logo} />
           <p className="mt-4 w-4/5">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             Exercitationem debitis tempora tempore saepe animi rerum quod magni
