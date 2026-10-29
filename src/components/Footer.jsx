@@ -1,3 +1,5 @@
+import { assets } from "../assets/assets_frontend/assets";
+
 const Footer = () => {
     const date = new Date()
     const year = date.getFullYear()
