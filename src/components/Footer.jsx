@@ -28,13 +28,13 @@ const Footer = () => {
         <div className="mx-10">
           <h2 className="text-xl font-bold">Get In Touch</h2>
           <ul className="my-8 text-sm/8">
-            <li>+93 701 234 567</li>
+            <li>070 123 4567</li>
             <li>example@gmail.com</li>
           </ul>
         </div>
       </div>
       <hr className="mb-5 text-gray-400" />
-      <p className="text-center text-sm my-5">Copyright {year} @Ghalib Hospital - All Rights Reserved</p>
+      <p className="text-center text-sm my-5">Copyright {year} @Baheen - All Rights Reserved</p>
     </div>
   );
 };
